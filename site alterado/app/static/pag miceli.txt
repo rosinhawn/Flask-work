@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> pagpica </title>
+</head>
+<img src="pic_trulli.jpg">
